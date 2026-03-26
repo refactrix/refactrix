@@ -48,7 +48,7 @@ We partner with **startups, SMEs, and growth-stage businesses** to architect, bu
 ┌─────────────────────────────────────────────────────────────────────┐
 │                                                                     │
 │   01  /  CUSTOM SOFTWARE DEVELOPMENT                                │
-│         Web apps · Mobile apps · Internal tools                    │
+│         Web apps · Mobile apps · Internal tools                     │
 │                                                                     │
 │   02  /  SYSTEM ARCHITECTURE & CONSULTING                           │
 │         Tech audits · Stack decisions · Scalability planning        │
@@ -103,13 +103,13 @@ We partner with **startups, SMEs, and growth-stage businesses** to architect, bu
 <br/>
 
 ```
-  DISCOVERY          ARCHITECTURE       DEVELOPMENT        DELIVERY
-  ─────────          ────────────       ───────────        ────────
+  DISCOVERY     →     ARCHITECTURE    →    DEVELOPMENT    →    DELIVERY
+  ─────────           ────────────         ───────────         ────────
   
-  ◆ Understand   →   ◆ System Design →  ◆ Agile Sprints → ◆ Deployment
-  ◆ Requirements      ◆ Tech Stack       ◆ Code Reviews    ◆ Monitoring
-  ◆ Constraints       ◆ Data Models      ◆ Testing         ◆ Handover
-  ◆ Timeline          ◆ Milestones       ◆ Iterations      ◆ Support
+  ◆ Understand        ◆ System Design    ◆ Agile Sprints    ◆ Deployment
+  ◆ Requirements      ◆ Tech Stack       ◆ Code Reviews     ◆ Monitoring
+  ◆ Constraints       ◆ Data Models      ◆ Testing          ◆ Handover
+  ◆ Timeline          ◆ Milestones       ◆ Iterations       ◆ Support
   
   Week 1             Week 1–2           Week 2–N           Final
 ```
@@ -161,7 +161,8 @@ Currently serving clients across **🇬🇧 United Kingdom** and **🇮🇳 Indi
 │                      │                      │                       │
 │  Fixed scope         │  Sprint-based        │  Custom contract      │
 │                      │                      │                       │
-│  📩 Get a quote      │  📩 Get a quote      │  📩 Let's talk        │
+│         📩📩        │         📩📩        │         📩📩         │
+│      Get a quote     │      Get a quote     │      Let's talk       │
 └──────────────────────┴──────────────────────┴───────────────────────┘
 ```
 
